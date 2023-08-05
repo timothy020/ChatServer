@@ -39,5 +39,5 @@ stream{
 # 运行
 进入 `/bin` 目录
 - 运行服务器： `./ChatServer 127.0.0.1 port`
-- 运行客户端： `./ChatClient IP 8000`
+- 运行客户端： `./ChatClient IP 8000` (IP为服务器Ip地址)
 
